@@ -1,4 +1,4 @@
-# Tectalic OpenAI REST API Client
+# OpenAI REST API Client
 
 > **This package is no longer supported or maintained.**
 
@@ -8,7 +8,7 @@ The **Tectalic OpenAI REST API Client** is a package that provides a convenient 
 
 Supports **ChatGPT**, **GPT-4**, **GPT-3.5**, **GPT-3**, **Codex**, **DALL·E**, **Whisper**, **Fine-Tuning**, **Embeddings** and **Moderation** models, with fully typed Data Transfer Objects (DTOs) for all requests and responses and IDE autocomplete support.
 
-More information is available from [https://tectalic.com/apis/openai](https://tectalic.com/apis/openai).
+Original information is available from [https://tectalic.com/apis/openai](https://tectalic.com/apis/openai).
 
 **This is an unofficial package and has no affiliations with OpenAI.**
 
